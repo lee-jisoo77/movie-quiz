@@ -1,0 +1,11 @@
+type,movie_title,naver_url
+Type 1,화양연화,https://search.naver.com/search.naver?query=화양연화+영화
+Type 1,그랜드부다페스트호텔,https://search.naver.com/search.naver?query=그랜드부다페스트호텔+영화
+Type 2,인셉션,https://search.naver.com/search.naver?query=인셉션+영화
+Type 2,올드보이,https://search.naver.com/search.naver?query=올드보이+영화
+Type 3,그린북,https://search.naver.com/search.naver?query=그린북+영화
+Type 3,카모메식당,https://search.naver.com/search.naver?query=카모메식당+영화
+Type 4,어벤져스,https://search.naver.com/search.naver?query=어벤져스+영화
+Type 4,극한직업,https://search.naver.com/search.naver?query=극한직업+영화
+Type 5,메멘토,https://search.naver.com/search.naver?query=메멘토+영화
+Type 5,살인의추억,https://search.naver.com/search.naver?query=살인의추억+영화
