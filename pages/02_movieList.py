@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 
-# 캐싱 기능: CSV 파일을 한 번만 읽고 이후에는 캐시에서 사용
-# 퀴즈 데이터나 외부 파일을 반복적으로 읽는 비용을 줄이기 위해 적용
+# 캐싱 기능
 @st.cache_data
 def load_movie_links():
     """movies_links.csv 파일을 읽어 영화별 네이버 링크 딕셔너리를 반환합니다."""
